@@ -57,7 +57,7 @@ li{
     width: 100%;
     height: 550px;
 }
-/*===News section=====*/
+/*===Notice section=====*/
 .contnr {
 	display: inline-flex;
 	width: 100%;
@@ -72,7 +72,7 @@ li{
 	margin-top: 15px;
 	box-shadow: 0 0 5px gray;
 }
-.newstext {
+.noticetext {
     width: 100%;
     height: 102px;
     text-align: left;
